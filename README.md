@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MahdiPeydai
+- 👋 Hi, I’m Mahdi Peydai
 - 👀 I’m interested in python and web applications
 - 🌱 I’m currently learning flask
 - 💞️ I’m looking to collaborate on flask projects
