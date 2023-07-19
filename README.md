@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mahdi Peydai
 - 👀 I’m interested in python and web applications
-- 🌱 I’m currently learning flask
-- 💞️ I’m looking to collaborate on flask projects
+- 💞️ I’m looking to collaborate on Flask and Django projects
 - 📫 How to reach me mahdipeydai@gmail.com
 
 <!---
